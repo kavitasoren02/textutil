@@ -29,6 +29,7 @@ function App() {
     document.body.classList.remove('bg-success')
     document.body.classList.remove('bg-danger')
   }
+  
   const togglemode=(cls)=>{
     removebodyClass();
     document.body.classList.add('bg-'+cls)
