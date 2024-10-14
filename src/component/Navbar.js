@@ -48,6 +48,6 @@ Navbar.propTypes={
     aboutText :PropTypes.string.isRequired
 }
 
-Navbar.defaultProps={
-    title: "Set Title here"
-}
+// Navbar.defaultProps={
+//     title: "Set Title here"
+// }
